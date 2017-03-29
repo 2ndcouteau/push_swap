@@ -16,13 +16,18 @@ It seems like sort a card game but with strict rules.
 ### Options:
 
 - -a
+
     Print the total number of operation.
 - -c
+
     Print the last operation in red.
 - -g
+
     In function of the number of operation, print a unuseful, but very beautiful, ASCII ART.
 - -r
+
     Reverse and print the state of Piles at the end of the execution.
 - -z
+
     Print the state of Piles at the end of the execution.
 
