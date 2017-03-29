@@ -1,6 +1,6 @@
 # Push_swap
 
-Algorithmic program who sort integer list with particualries rules.
+Algorithmic program who sort integer list with special rules.
 
 The program takes a list of integer in parameters.
 By default, it returns the list of operation used for sort the list.
